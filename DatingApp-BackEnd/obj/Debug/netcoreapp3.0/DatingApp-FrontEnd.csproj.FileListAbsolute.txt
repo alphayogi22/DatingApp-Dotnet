@@ -84,3 +84,11 @@ C:\Users\Yogesh\Documents\Dotnet_Project\DatingApp3\DatingApp-BackEnd\obj\Debug\
 C:\Users\Yogesh\Documents\Dotnet_Project\DatingApp3\DatingApp-BackEnd\obj\Debug\netcoreapp3.0\DatingApp-FrontEnd.csproj.CopyComplete
 C:\Users\Yogesh\Documents\Dotnet_Project\DatingApp3\DatingApp-BackEnd\obj\Debug\netcoreapp3.0\DatingApp-FrontEnd.dll
 C:\Users\Yogesh\Documents\Dotnet_Project\DatingApp3\DatingApp-BackEnd\obj\Debug\netcoreapp3.0\DatingApp-FrontEnd.pdb
+C:\Users\Yogesh\Documents\Dotnet_Project\DatingApp3\DatingApp-BackEnd\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Yogesh\Documents\Dotnet_Project\DatingApp3\DatingApp-BackEnd\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Yogesh\Documents\Dotnet_Project\DatingApp3\DatingApp-BackEnd\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Yogesh\Documents\Dotnet_Project\DatingApp3\DatingApp-BackEnd\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Yogesh\Documents\Dotnet_Project\DatingApp3\DatingApp-BackEnd\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Yogesh\Documents\Dotnet_Project\DatingApp3\DatingApp-BackEnd\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Yogesh\Documents\Dotnet_Project\DatingApp3\DatingApp-BackEnd\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Yogesh\Documents\Dotnet_Project\DatingApp3\DatingApp-BackEnd\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll

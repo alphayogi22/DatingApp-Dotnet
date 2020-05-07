@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Yogesh\\Documents\\Dotnet_Project\\DatingApp3\\DatingApp-BackEnd\\DatingApp-FrontEnd.csproj": {}
+    "c:\\Users\\Yogesh\\Documents\\Dotnet_Project\\DatingApp3\\DatingApp-BackEnd\\DatingApp-FrontEnd.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Yogesh\\Documents\\Dotnet_Project\\DatingApp3\\DatingApp-BackEnd\\DatingApp-FrontEnd.csproj": {
+    "c:\\Users\\Yogesh\\Documents\\Dotnet_Project\\DatingApp3\\DatingApp-BackEnd\\DatingApp-FrontEnd.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Yogesh\\Documents\\Dotnet_Project\\DatingApp3\\DatingApp-BackEnd\\DatingApp-FrontEnd.csproj",
+        "projectUniqueName": "c:\\Users\\Yogesh\\Documents\\Dotnet_Project\\DatingApp3\\DatingApp-BackEnd\\DatingApp-FrontEnd.csproj",
         "projectName": "DatingApp-FrontEnd",
-        "projectPath": "C:\\Users\\Yogesh\\Documents\\Dotnet_Project\\DatingApp3\\DatingApp-BackEnd\\DatingApp-FrontEnd.csproj",
+        "projectPath": "c:\\Users\\Yogesh\\Documents\\Dotnet_Project\\DatingApp3\\DatingApp-BackEnd\\DatingApp-FrontEnd.csproj",
         "packagesPath": "C:\\Users\\Yogesh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Yogesh\\Documents\\Dotnet_Project\\DatingApp3\\DatingApp-BackEnd\\obj\\",
+        "outputPath": "c:\\Users\\Yogesh\\Documents\\Dotnet_Project\\DatingApp3\\DatingApp-BackEnd\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Yogesh\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -36,6 +36,10 @@
       "frameworks": {
         "netcoreapp3.0": {
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[3.0.0, )"
@@ -47,6 +51,14 @@
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
               "version": "[3.0.0, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.5.1, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.5.1, )"
             }
           },
           "imports": [
